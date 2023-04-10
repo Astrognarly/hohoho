@@ -3,3 +3,10 @@ function snowRemoval() {
 };
 
 snowRemoval ();
+
+function hiKevin() {
+    console.log("Kevin is awesome!");
+}
+
+hiKevin ();
+
