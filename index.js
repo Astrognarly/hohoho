@@ -1,3 +1,5 @@
+import factorial from "./kevin.js";
+
 function snowRemoval() {
     console.log("Santa needs a clear runway!")
 };
@@ -15,3 +17,7 @@ function yoJJ() {
 }
 
 yoJJ();
+
+console.log(`3! is ${factorial(3)}`);
+console.log(`5! is ${factorial(5)}`);
+console.log(`10! is ${factorial(10)}`);
